@@ -1,2 +1,3 @@
-# hocdetichphuoc-net
-Chuyển hocdetichphuoc.net sang hocdetichphuoc.vn
+# hocdetichphuoc.net
+
+Chuyển mọi đường dẫn của hocdetichphuoc.net sang https://hocdetichphuoc.vn (GitHub Pages).
